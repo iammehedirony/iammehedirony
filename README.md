@@ -12,7 +12,7 @@
 <p align="center"> 
 
   <a href="mailto:iammehedirony@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-3CCF91?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> &nbsp;
   
   <a href="https://www.linkedin.com/in/iammehedirony" >
