@@ -4,7 +4,7 @@
 
 <div align="center">
   
-**`I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.js, Next.js, Node.js & Express.js, MongoDB, Mongoose, Prisma. Currently, I'm studying Computer Science. I enjoy building responsive and user friendly applications and exploring new technologies to enhance my development workflow.`**
+**`I'm a Full Stack Developer with expertise in Javascript, Typescript, React.js, Next.js, Node.js & Express.js, MongoDB, Mongoose, Prisma. Currently, I'm studying Computer Science. I enjoy building responsive and user friendly applications and exploring new technologies to enhance my development workflow.`**
 
 </div>
 
