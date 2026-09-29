@@ -44,7 +44,7 @@
  <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/linux.png" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/git.gif" width="45"> &nbsp; &nbsp; 
  <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/docker.svg" width="30"> &nbsp; &nbsp; 
- <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/nginx.svg" width="20">
+ <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/nginx.svg" width="25">
 </div>
 
 
