@@ -54,7 +54,7 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats-ebon-delta.vercel.app/api/top-langs/?username=iammehedirony&layout=compact&theme=dark" alt="Rony's Top Languages" height="200px" />
+<img src="https://github-readme-stats-ebon-delta.vercel.app/api/top-langs/?username=iammehedirony&langs_count=8&layout=compact&theme=dark" alt="Rony's Top Languages" height="200px" />
 </p>
 
 
