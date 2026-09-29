@@ -29,18 +29,22 @@
 
 
 <div align="center">
-
  <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/javascript.png" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/typescript.png" width="30"> &nbsp; &nbsp;
  <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/react.gif" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/next.svg" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/node.gif" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/express.gif" width="40"> &nbsp; &nbsp; 
+ <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/nest.svg" width="40"> &nbsp; &nbsp; 
  <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/mongodb.gif" width="30"> &nbsp; &nbsp; 
- <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/html.gif" width="30"> &nbsp; &nbsp; 
- <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/css.gif" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/pg.png" width="30"> &nbsp; &nbsp;
+ <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/redis.svg" width="45"> &nbsp; &nbsp; 
+ <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/graphql.png" width="45"> &nbsp; &nbsp; 
+ <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/socket.svg" width="45"> &nbsp; &nbsp; 
+ <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/linux.svg" width="45"> &nbsp; &nbsp; 
  <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/git.gif" width="45"> &nbsp; &nbsp; 
- <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/Prisma.svg" width="20"> &nbsp; &nbsp; 
- <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/docker.svg" width="30">
+ <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/docker.svg" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/iammehedirony/iammehedirony/blob/main/img/nginx.svg" width="30">
 </div>
 
 
